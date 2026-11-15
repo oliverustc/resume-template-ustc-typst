@@ -1,0 +1,38 @@
+{
+  "license": "SIL Open Font License 1.1",
+  "modified": false,
+  "files": [
+    {
+      "file": "source-han-sans/SourceHanSansSC-Regular.otf",
+      "upstream": "https://github.com/adobe-fonts/source-han-sans",
+      "version": "2.005R",
+      "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/2.005R/OTF/SimplifiedChinese/SourceHanSansSC-Regular.otf",
+      "bytes": 16529832,
+      "sha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256"
+    },
+    {
+      "file": "source-han-sans/SourceHanSansSC-Bold.otf",
+      "upstream": "https://github.com/adobe-fonts/source-han-sans",
+      "version": "2.005R",
+      "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/2.005R/OTF/SimplifiedChinese/SourceHanSansSC-Bold.otf",
+      "bytes": 16963428,
+      "sha256": "df2b90f5bcc6d01dfc964cec5f6d535d6b6aebd26ed7fd79a9c1b3f2112fcb6b"
+    },
+    {
+      "file": "source-han-serif/SourceHanSerifSC-Regular.otf",
+      "upstream": "https://github.com/adobe-fonts/source-han-serif",
+      "version": "2.003R",
+      "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/2.003R/OTF/SimplifiedChinese/SourceHanSerifSC-Regular.otf",
+      "bytes": 24543332,
+      "sha256": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117"
+    },
+    {
+      "file": "source-han-serif/SourceHanSerifSC-Bold.otf",
+      "upstream": "https://github.com/adobe-fonts/source-han-serif",
+      "version": "2.003R",
+      "url": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/2.003R/OTF/SimplifiedChinese/SourceHanSerifSC-Bold.otf",
+      "bytes": 25521732,
+      "sha256": "706b8c0de2deff6cbc0c87e2cdedfd33a78b7ffd76cebb4549012f197ba611fe"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+/output/
+/tmp/
+*.log
+*.synctex.gz
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+/resume.pdf
+/resume-*.png

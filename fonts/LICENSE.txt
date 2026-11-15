@@ -1,0 +1,19 @@
+Bundled Source Han fonts
+=======================
+
+Source Han Sans SC, release 2.005R:
+  Official upstream: https://github.com/adobe-fonts/source-han-sans
+  Complete copyright notice and SIL Open Font License 1.1:
+    fonts/source-han-sans/OFL.txt
+
+Source Han Serif SC, release 2.003R:
+  Official upstream: https://github.com/adobe-fonts/source-han-serif
+  Complete copyright notice and SIL Open Font License 1.1:
+    fonts/source-han-serif/OFL.txt
+
+Regular and Bold OpenType font files are included unchanged from the
+official releases. File sources, release versions, sizes, and SHA-256
+hashes are recorded in fonts/manifest.json.
+
+The template code is licensed under MIT (LICENSE). Font files retain
+their own OFL license; they are not relicensed under MIT.
